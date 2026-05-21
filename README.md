@@ -52,7 +52,7 @@ This is a prototype developed using Lovable. Advanced features like real-time pe
 ---
 
 ## 👤 Author
-**Vasanthi Rangu**
+**Poludasu Manogna**
 
 ---
 
