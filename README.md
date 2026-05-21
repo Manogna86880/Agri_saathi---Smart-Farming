@@ -25,10 +25,6 @@ Agri Saathi provides a user-friendly platform that helps farmers:
 -  User-friendly design for accessibility  
 -  Focus on sustainable agriculture  
 
----
-
-##  Live Demo
-👉 [Click here to view the project] ( https://youtu.be/iwcFkOra_es )
 
 ---
 
